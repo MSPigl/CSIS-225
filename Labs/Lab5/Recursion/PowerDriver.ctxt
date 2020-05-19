@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=base\ exponent
+comment0.target=double\ recursiveIntegerExp(double,\ int)
+comment0.text=\r\n\ Raises\ a\ base\ to\ a\ power\ recursively\r\n\ \r\n\ @param\ base\ the\ base\ to\ be\ raised\ to\ an\ exponent\r\n\ @param\ exponent\ the\ exponent\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ class\ PowerDriver\r\n\ \r\n\ @param\ args\ an\ array\ of\ command\ line\ arguments\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=label\ listSize
+comment0.target=TaxonomyNode(java.lang.String,\ int)
+comment1.params=parent\ child
+comment1.target=void\ addChild(TaxonomyNode,\ TaxonomyNode)
+comment2.params=rootIn
+comment2.target=void\ setRoot(TaxonomyNode)
+numComments=3

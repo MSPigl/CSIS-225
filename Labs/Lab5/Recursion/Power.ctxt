@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=base\ exponent
+comment0.target=double\ integerExp(double,\ int)
+comment0.text=\r\n\ This\ method\ raises\ a\ base\ to\ an\ exponent\ iteratively\r\n\ \r\n\ @param\ base\ a\ base\ value\r\n\ @param\ exponent\ the\ exponent\ to\ raise\ the\ base\ to\r\n
+numComments=1

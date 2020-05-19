@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ AckHelper()
+comment0.text=\r\n\ Helper\ method\ for\ recursive\ method\ Ack\r\n
+comment1.params=m\ n
+comment1.target=int\ Ack(int,\ int)
+comment1.text=\r\n\ Models\ the\ Ackerman\ funciton\ recursively\r\n\ \r\n\ @param\ m\ an\ int\ value\r\n\ @param\ n\ an\ int\ value\r\n\r\n\ @return\ int\ result\ of\ the\ Ackerman\ function\r\n
+numComments=2
